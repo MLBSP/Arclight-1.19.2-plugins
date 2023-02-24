@@ -1,0 +1,7 @@
+{
+  "type": "minecraft/java",
+  "startCommand": "{{java}} -jar server.jar nogui",
+  "stopCommand": "stop",
+  "ie": "utf-8",
+  "oe": "utf-8"
+}
